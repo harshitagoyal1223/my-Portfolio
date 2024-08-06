@@ -1,0 +1,229 @@
+#page1{
+    background-image: url('back.jpg');
+    background-color: white;
+    color:rgb(2, 95, 95);
+    display: flexbox;
+    border-bottom: 5px solid rgb(96, 145, 145);
+    height:750px;
+}
+
+.header{
+    display: flex;
+    height: 80px;
+    background-color:darkcyan;
+    color: white;
+    font-family: cursive;
+}
+
+h2{
+    margin: 25px 425px 5px 80px;
+    font-size: 30px;
+}
+
+p{
+    margin: 25px 75px 5px 0px;
+    font-size: 25px;
+}
+.content{
+    height: 550px;
+    display:flex
+}
+
+.welcome{
+    justify-content: center;
+    margin: 50px 0px 0px 250px;
+    font-size: 60px;
+}
+.hi{
+    margin: 100px 0px 0px 100px;
+    font-size: 37px;
+}
+.name{
+    font-size: 37px;
+    margin: 0px 0px 0px 100px;
+}
+.about{
+    font-size: 34px;
+    color:rgb(77, 76, 76);
+    margin-left: 100px;
+}
+
+.abt{
+    font-size: 20px;
+    margin-left: 100px;
+}
+
+.img1{
+    margin-left: 275px;
+    margin-top: 30px;
+    border-radius: 50%;
+    border: 5px solid rosybrown;
+}
+
+#page2{
+    background-image: url('back2.png');
+    height:750px;
+    display: flex;
+}
+.page2{
+    height:500px;
+    width: 650px;
+    margin-left: 100px;
+
+}
+.aboutMe{
+    font-size: 60px;
+    color:rgb(49, 37, 37);
+    padding-top: 100px;;
+}
+
+#abt{
+    margin: 25px 0px 0px 0px;
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(26, 24, 24);
+}
+button{
+    font-size: 35px;
+    margin:25px 0px 0px 50px;
+    background-color:white;
+    color:darkslategray
+}
+.img2{
+    margin-top:150px;
+    margin-left:150px;
+}
+.image2{
+    border-radius:30%;
+    border: 5px solid black;
+}
+
+#page3{
+    background-image: url('back3.jpg');
+    height:750px;
+}
+.page3{
+    margin: 20px 0px 0px 650px;
+    font-size: 80px;
+    color:darkcyan
+}
+.photos{
+    display:flex;
+    padding-top:60px;
+    height:250px;
+}
+
+.img3{
+    margin-left: 250px;
+}
+#html{
+    display: flex;
+    font-size: 35px;
+}
+
+.html{
+    margin:0px 0px 0px 290px;
+}
+.css{
+    margin:0px 0px 0px 335px;
+}
+.js{
+    margin:0px 0px 0px 320px;
+}
+.c{
+    margin:0px 0px 0px 320px;
+}
+.c1{
+    margin:0px 0px 0px 360px;
+}
+.java{
+    margin:0px 0px 0px 395px;
+}
+#c{
+    display:flex;
+}
+
+#page4{
+    background-image: url('back4.jpg');
+    height:750px;
+}
+.contact{
+    font-size: 80px;
+    color: white;
+    margin: 30px 0px 0px 575px;
+}
+
+#contactMe{
+    width: 100px;
+    margin-top: 100px;
+}
+
+.contactMe{
+    margin-bottom: 70px;
+    margin-left: 120px;
+}
+
+.links{
+    width:50px;
+    margin-top:100px;
+}
+.github{
+    margin-left:130px;
+    margin-bottom:70px;
+    font-size:30px;
+    color:darkcyan;
+}
+.gmail{
+    margin-left:130px;
+    margin-top:50px;
+    margin-bottom:70px;
+    font-size:30px;
+    color:darkcyan;
+}
+.linked{
+    margin-left:130px;
+    margin-top:55px;
+    margin-bottom:70px;
+    font-size:30px;
+    color:darkcyan;
+}
+
+#links{
+    display:flex;
+}
+
+.page4{
+    display: flex;
+}
+
+.feedback{
+    display: flexbox;
+    margin: 220px 0px 0px 550px;
+    height:300px;
+    width: 450px;
+    background-color: black;
+    color:white;
+    border: 5px solid white;
+}
+
+.feed{
+    margin: 10px 0px 0px 165px;
+}
+#email{
+    height: 50px;
+    width: 300px;
+    margin: 10px 75px 0px 75px;
+    color:black;
+}
+
+#feedback{
+    height: 120px;
+    width: 300px;
+    margin: 10px 75px 0px 75px;
+    color: black;
+}
+.button{
+    margin: 10px 0px 0px 170px;
+    background-color: red;
+    color:black;
+}
